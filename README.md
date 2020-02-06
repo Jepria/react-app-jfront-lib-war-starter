@@ -7,27 +7,6 @@ building
 
 ---
 
-## Feature tags
-
-- app
-- build
-- jfront
-- lerna
-- maven
-- react
-- spa
-- starter
-- uilib
-- war
-
----
-
-## Direct ancestors
-
-[React application starter with ui library in Lerna monorepo](https://github.com/softspiders/lerna-react-app-uilib-starter)
-
----
-
 ## Install
 1. Clone this repo
 2. Install dependencies
