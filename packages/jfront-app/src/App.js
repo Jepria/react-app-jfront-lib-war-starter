@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {LibComponent} from 'jfront-component';
+import {HelloComponent} from 'jfront-component';
 
 class App extends Component {
   render() {
@@ -8,9 +8,9 @@ class App extends Component {
         <p>
           To get started in dev mode, edit <code>App.js</code> or <code>LibComponent.js</code> and save to reload.
         </p>
-        <LibComponent>
+        <HelloComponent>
           JFront
-        </LibComponent>
+        </HelloComponent>
       </div>
     );
   }

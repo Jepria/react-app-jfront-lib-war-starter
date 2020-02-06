@@ -1,1 +1,1 @@
-export * from './LibComponent';
+export * from './HelloComponent';
