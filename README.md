@@ -1,7 +1,6 @@
 # react-app-jfront-lib-war-starter
 
-[React](https://reactjs.org/) application starter with jfront library in [Lerna](https://lerna.js.org/) monorepo and war
-building
+[React](https://reactjs.org/) application with JFront library in one monorepo and war building
 
 ---
 
