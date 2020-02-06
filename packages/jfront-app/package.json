@@ -1,9 +1,9 @@
 {
-  "name": "example-app",
+  "name": "jfront-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "example-lib": "^0.0.1",
+    "jfront-component": "^0.0.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4"

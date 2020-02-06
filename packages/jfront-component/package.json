@@ -1,7 +1,7 @@
 {
-  "name": "example-lib",
+  "name": "jfront-component",
   "version": "0.0.1",
-  "description": "Example lib",
+  "description": "JFront example lib",
   "main": "lib/index.js",
   "files": [
     "lib"

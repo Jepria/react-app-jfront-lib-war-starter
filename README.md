@@ -1,8 +1,8 @@
 SOFTSPIDERS
 
-# *lerna-react-app-uilib-war-starter*
+# react-app-jfront-lib-war-starter*
 
-[React](https://reactjs.org/) application starter with ui library in [Lerna](https://lerna.js.org/) monorepo and war
+[React](https://reactjs.org/) application starter with jfront library in [Lerna](https://lerna.js.org/) monorepo and war
 building
 
 ---
@@ -11,6 +11,7 @@ building
 
 - app
 - build
+- jfront
 - lerna
 - maven
 - react
@@ -24,16 +25,6 @@ building
 ## Direct ancestors
 
 [React application starter with ui library in Lerna monorepo](https://github.com/softspiders/lerna-react-app-uilib-starter)
-
----
-
-## Inspired by
-
-[Antony Budianto](https://github.com/antonybudianto)'s [react-lib-starter](https://github.com/antonybudianto/react-lib-starter)
-
-## Authors
-
-[Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
 
 ---
 
@@ -69,7 +60,7 @@ Being at the root directory, execute
 npm run build:war
 ```
 
-After successful build the result will be the *packages/example-app/target/example-app-war.war* file.
+After successful build the result will be the *packages/jfront-app/target/jfront-app.war* file.
 
 ---
 
