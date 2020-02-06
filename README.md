@@ -1,6 +1,6 @@
 SOFTSPIDERS
 
-# react-app-jfront-lib-war-starter*
+# react-app-jfront-lib-war-starter
 
 [React](https://reactjs.org/) application starter with jfront library in [Lerna](https://lerna.js.org/) monorepo and war
 building
